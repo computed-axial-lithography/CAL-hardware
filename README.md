@@ -1,5 +1,14 @@
 # CAL-HARDWARE
 Hardware models for 4 inch version of CAL
+
+Please refer to the list below for the Equipment required to accompany the housing assembled from parts CAL4-0, CAL4-1, CAL4-2 and CAL4-3:
+Light Crafter 4500 405nm Projector
+PRM1-Z8 Rotation Stage
+KDC101 Servo Motor Controller
+Lens D100mm F150mm
+Index Matching Box
+Glass Vials
+
 Copyright © 2017-2019. The Regents of the University of California, Berkeley. All rights reserved.
 
 Redistribution and use in STL and SLDPRT forms, with or without modification, are permitted provided that the following conditions are met:
