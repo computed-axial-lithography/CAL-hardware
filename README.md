@@ -3,17 +3,17 @@ Hardware models for 4 inch version of CAL
 
 Please refer to the list below for the Equipment required to accompany the housing assembled from parts CAL4-0, CAL4-1, CAL4-2 and CAL4-3:
 
-1. Light Crafter 4500 405nm Projector
+1. [Light Crafter 4500 405nm Projector](http://www.wintechdigital.com/index.php?route=product/product&product_id=52) (Alternative: [Ajile 4500](https://ajile.ca/ajp-4500/) This projector has many more capabilities including: onboard memory for image storage, up to 16-bit depth, 2500 fps streaming from PC)
 
-2. PRM1-Z8 Rotation Stage
+2. [PRM1-Z8 Rotation Stage](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=2875&pn=PRM1Z8#4092)
 
-3. KDC101 Servo Motor Controller
+3. [KDC101 Servo Motor Controller](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=2419&pn=KDC101#5077)
 
-4. Lens D100mm F150mm
+4. [Lens D100mm F150mm](https://www.edmundoptics.com/p/100mm-dia-x-150mm-focal-length-pcx-condenser-lens/35971/)
 
-5. Index Matching Box
+5. [Index Matching Box](https://www.amazon.com/Clear-Plastic-Box-Square-Boxes/dp/B071WMWGYQ)
 
-6. Glass Vials
+6. [Glass Vials](https://www.sigmaaldrich.com/catalog/product/aldrich/z190535?lang=en&region=US)
 
 Copyright © 2017-2019. The Regents of the University of California, Berkeley. All rights reserved.
 
