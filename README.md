@@ -1,3 +1,12 @@
+# DISCLAIMER!!!
+BEWARE THERE ARE KNOWN ISSUES WITH THE FOCUSING THE IMAGE WITH THIS COMBINATION OF OPTICAL HARDWARE AND THE 3D PRINTED CASING!!!
+
+We are working on a new design that is based on an optical breadboard and will provide more flexibility for focus adjusment, optical alignment, and print container alignment. If you are considering building a CAL system, we **strongly suggest** you wait until this new design is available before purchasing/building anything.
+
+This new design is expected to be available in **June 2021**. Email jtoombs@berkeley.edu if you have questions about this.
+
+
+
 # CAL-HARDWARE
 Hardware models for 4 inch version of CAL
 
